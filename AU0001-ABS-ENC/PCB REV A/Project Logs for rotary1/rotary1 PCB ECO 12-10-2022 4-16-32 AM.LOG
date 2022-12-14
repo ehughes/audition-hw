@@ -1,0 +1,11 @@
+Added Component: Designator=U1(PAC18R1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PAC18R1-41D19F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=3.26000, 10=3.04000, 50=2.60000, 100=2.45000, 1000=2.00000, 10000=1.91000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-PAC18R1-41D19F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PAC18R1-41D19F"; VariantName = "[No Variations]"
+Added Class: Name=rotary1
+Added Room: Name=rotary1

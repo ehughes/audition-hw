@@ -1,0 +1,65 @@
+Added Component: Designator=C1(C0603_0.90MM_MD)
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet (Internal)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "datasheets\TDK\mlcc_automotive_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet (External)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Soft Termination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X7R1H104K080AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Substitution Notes"; Value = "0.1µF , 50V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-15957-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.90MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=FID1(Fiducial 1mm - 2mm)
+Add component (AddParameter): Name = "Value"; Value = "PCB Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=FID2(Fiducial 1mm - 2mm)
+Add component (AddParameter): Name = "Value"; Value = "PCB Fiducial"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TC2030)
+Add component (AddParameter): Name = "Value"; Value = "TC2030-CTL-NL"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TSOP65P640X105-20N)
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LPC804M101JDH20FP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.56000, 10=1.39500, 25=1.32440, 100=1.08790, 250=1.01696, 500=0.89870, 1000=0.70950, 2500=0.66220, 5000=0.62909 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1734"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-13824-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LPC804M101JDH20FP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3v3 Pin=C1-2
+Added Pin To Net: NetName=+3v3 Pin=J1-1
+Added Pin To Net: NetName=+3v3 Pin=U2-15
+Added Pin To Net: NetName=+3v3 Pin=U2-18
+Added Net: Name=+3v3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Net: Name=GND
+Added Pin To Net: NetName=nRESET Pin=J1-3
+Added Pin To Net: NetName=nRESET Pin=U2-5
+Added Net: Name=nRESET
+Added Pin To Net: NetName=SCL Pin=U2-10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U2-13
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWDCLK Pin=J1-4
+Added Pin To Net: NetName=SWDCLK Pin=U2-7
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=SWDIO Pin=U2-8
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=rotary1 Member=Component C1 0.1µF
+Added Member To Class: ClassName=rotary1 Member=Component FID1 PCB Fiducial
+Added Member To Class: ClassName=rotary1 Member=Component FID2 PCB Fiducial
+Added Member To Class: ClassName=rotary1 Member=Component J1 TC2030-CTL-NL
+Added Member To Class: ClassName=rotary1 Member=Component U1 PAC18R1-41D19F
+Added Member To Class: ClassName=rotary1 Member=Component U2 LPC804M101JDH20FP
+Added Room: Name=rotary1
