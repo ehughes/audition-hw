@@ -1,0 +1,11 @@
+Added Component: Designator=POT1(PRS11R425FS103B1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=3.76000, 10=3.30000, 50=3.30000, 100=2.70000, 1000=1.82000, 10000=1.70000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "729"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=rotary1 New Net Name=AU0003A
+Added Member To Class: ClassName=AU0003A Member=Component POT1 PRS11R-425F-S103B1

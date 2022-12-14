@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+3v3 Pin=C1-2
+Removed Pin From Net: NetName=+3v3 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=+3v3 Pin=R1-1
+Removed Pin From Net: NetName=+3v3 Pin=R2-1
+Removed Pin From Net: NetName=+3v3 Pin=R3-1
+Removed Pin From Net: NetName=+3v3 Pin=R4-1
+Removed Pin From Net: NetName=+3v3 Pin=R5-1
+Removed Pin From Net: NetName=+3v3 Pin=U2-15
+Removed Pin From Net: NetName=GND Pin=U2-16
+Removed Pin From Net: NetName=+3v3 Pin=U2-18
+Removed Member From Class: ClassName=AU0003A Member=C1
+Removed Member From Class: ClassName=AU0003A Member=J1
+Removed Member From Class: ClassName=AU0003A Member=R1
+Removed Member From Class: ClassName=AU0003A Member=R2
+Removed Member From Class: ClassName=AU0003A Member=R3
+Removed Member From Class: ClassName=AU0003A Member=R4
+Removed Member From Class: ClassName=AU0003A Member=R5
+Removed Member From Class: ClassName=AU0003A Member=U2
+Added Pin To Net: NetName=GND Pin=J2-M1
+Added Pin To Net: NetName=GND Pin=J2-M2
+Added Pin To Net: NetName=GND Pin=POT1-1
+Added Pin To Net: NetName=+3v3 Pin=POT1-3
+Added Pin To Net: NetName=GND Pin=POT1-5
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=POT1-4
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=POT1-2
+Added Net: Name=NetJ2_4
