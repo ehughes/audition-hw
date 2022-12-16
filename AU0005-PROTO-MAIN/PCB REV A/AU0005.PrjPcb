@@ -48,23 +48,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=RT_SUPER_HOST_A.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=AU0006A.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,24 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHOBRBXQ
 
-[Document3]
-DocumentPath=RT_SUPER_HOST_A.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
+[Document2]
 DocumentPath=AU0005A_TOP_LEVEL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXXRLNQN
 
-[Document5]
+[Document3]
 DocumentPath=ADC_IN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFAYDPWY
 
-[Document6]
+[Document4]
 DocumentPath=ADC_IN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,8 +115,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=RT_SUPER_HOST_A.Harness
+[Document5]
+DocumentPath=AU0005A_TOP_LEVEL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -920,36 +886,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
