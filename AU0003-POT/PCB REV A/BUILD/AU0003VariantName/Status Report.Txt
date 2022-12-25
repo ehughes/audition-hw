@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:52:20 PM On 12/25/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [A] of PCB Document [AU0004A.PcbDoc]
+   Generated File[AU0003A.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:52:21 PM On 12/25/2022

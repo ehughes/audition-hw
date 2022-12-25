@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=GENERIC-2-LAYER.OutJob
 Description=
-TargetOutputMedium=3D PDF
+TargetOutputMedium=STEP
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=EPSON ET-4700 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -173,7 +173,7 @@ OutputName7=CCA PDF3D
 OutputCategory7=Documentation
 OutputDocumentPath7=AU0002A.PcbDoc
 OutputVariantName7=A
-OutputEnabled7=1
+OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
@@ -227,7 +227,7 @@ OutputName10=Export STEP
 OutputCategory10=Export
 OutputDocumentPath10=AU0002A.PcbDoc
 OutputVariantName10=A
-OutputEnabled10=0
+OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
@@ -239,7 +239,7 @@ OutputEnabled10_OutputMedium8=0
 OutputEnabled10_OutputMedium9=1
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=1|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\ELI\audition-hw\rotary1\PCB REV A\AU0002A.PcbDoc
+Configuration10_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=1|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\ELI\audition-hw\AU0001-ABS-ENC\PCB REV A\AU0002A.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=C:\ELI\audition-hw\rotary1\PCB REV A\BUILD\AU0002A\
@@ -389,7 +389,7 @@ ShowComponentParameters8=1
 GlobalBookmarks8=0
 PDFACompliance8=Disabled
 PDFVersion8=Default
-OutputFilePath9=C:\ELI\audition-hw\rotary1\PCB REV A\BUILD\AU0001VariantName\
+OutputFilePath9=C:\ELI\audition-hw\AU0001-ABS-ENC\PCB REV A\BUILD\AU0001VariantName\
 ReleaseManaged9=0
 OutputBasePath9=BUILD\
 OutputPathMedia9==CCA_PART_NUMBER + VariantName
@@ -401,7 +401,7 @@ OutputFileName9=
 OutputFileNameMulti9==CCA_PART_NUMBER +VariantName
 UseOutputNameForMulti9=0
 OutputFileNameSpecial9=
-OpenOutput9=1
+OpenOutput9=0
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\ELI\audition-hw\rotary1\PCB REV A\BUILD\AU0002A\
@@ -442,9 +442,9 @@ RelativeOutputPath7=C:\ELI\audition-hw\rotary1\PCB REV A\BUILD\AU0001\AU0001Vari
 OpenOutputs7=1
 RelativeOutputPath8=C:\ELI\SmartBrew\PCB\tz-sb-0001-hydroscope-mainboard\PCB REV A\SCHEMATICS\TZ-SB-0001-[VariantName]\TZ-SB-0001-[VariantName] Schematics.PDF
 OpenOutputs8=1
-RelativeOutputPath9=C:\ELI\audition-hw\rotary1\PCB REV A\BUILD\AU0001VariantName\
-OpenOutputs9=1
-AddToProject9=1
+RelativeOutputPath9=C:\ELI\audition-hw\AU0001-ABS-ENC\PCB REV A\BUILD\AU0001VariantName\
+OpenOutputs9=0
+AddToProject9=0
 TimestampFolder9=0
 UseOutputName9=0
 OpenODBOutput9=0

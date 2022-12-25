@@ -1,0 +1,93 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (Small Guitar Body.ai)
+%%BoundingBox: 12 13 115 141
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 255 0 206 Lb
+(Blueprints) Ln
+0 A
+0 R
+1.0000 0.0000 0.8078 XA
+1.0000 0.0000 0.8078 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+53.6655 135.1547 m
+53.6925 135.1548 53.7194 135.1542 53.7464 135.1529 c
+58.3415 135.1529 62.9366 135.1529 67.5318 135.1529 c
+67.5411 135.1531 67.5504 135.1532 67.5597 135.1532 c
+68.3552 135.1555 69.0343 134.5310 69.0320 133.7208 c
+69.0320 129.9972 69.0319 126.2737 69.0319 122.5502 c
+69.0319 121.6211 69.8379 120.7909 70.2315 120.4183 c
+71.8412 118.8943 74.4590 117.5428 76.7687 116.8465 c
+79.8070 115.9306 82.3122 116.1484 84.1956 117.0059 c
+86.0790 117.8634 87.3407 119.3606 88.1704 120.4950 c
+89.0001 121.6294 89.3980 122.4011 90.2238 121.7114 c
+91.0496 121.0217 92.3034 118.8706 92.8690 116.2327 c
+93.4346 113.5947 93.3120 110.4698 92.4006 107.5460 c
+91.4892 104.6222 89.7891 101.8995 89.2235 97.7568 c
+88.6579 93.6142 89.2270 88.0516 90.9305 83.0488 c
+92.6341 78.0460 95.4722 73.6030 98.7032 69.6240 c
+101.9342 65.6450 105.5582 62.1302 108.3965 58.1902 c
+111.2349 54.2502 113.2875 49.8851 113.6884 44.8259 c
+114.0893 39.7668 112.8384 34.0135 109.5638 28.9334 c
+106.2893 23.8534 100.9910 19.4465 94.2611 17.2097 c
+87.5313 14.9730 79.3698 14.9063 73.4993 15.2716 c
+67.6287 15.6369 64.0489 16.4342 57.7927 18.5831 c
+51.5364 20.7321 42.6035 24.2327 35.1432 28.7841 c
+27.6828 33.3354 21.6950 38.9374 18.2029 44.2886 c
+14.7108 49.6398 13.7146 54.7402 14.9040 60.3840 c
+16.0935 66.0278 19.4687 72.2151 23.5193 78.6533 c
+27.5699 85.0914 32.2959 91.7804 31.8233 99.1383 c
+31.3507 106.4961 25.6795 114.5229 21.9417 119.9159 c
+18.2039 125.3089 16.3994 128.0681 15.7549 130.4928 c
+15.1105 132.9176 15.6261 135.0079 17.0439 136.6802 c
+18.4616 138.3524 20.7817 139.6066 23.7032 140.0664 c
+26.6247 140.5263 30.1477 140.1919 34.9596 138.5196 c
+39.3695 136.9871 44.8619 134.3310 50.3125 131.5166 c
+51.4544 131.0684 52.0767 131.2242 52.1794 131.9840 c
+52.1879 132.5452 52.1964 133.1063 52.2049 133.6675 c
+52.2041 133.6853 52.2037 133.7030 52.2037 133.7208 c
+52.2005 134.5275 52.8733 135.1515 53.6655 135.1547 C
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
